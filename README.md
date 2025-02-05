@@ -51,7 +51,7 @@ Après avoir appliqué ces corrections, le modèle a montré une amélioration s
 ![Graphique des Pertes](https://raw.githubusercontent.com/elenset/Deep-Learning/master/Graphique%20des%20Pertes.JPG)
 
 ### Graphique du MAE
-![Évolution du MAE]([URL_DU_GRAPHIQUE_DU_MAE](https://raw.githubusercontent.com/elenset/Deep-Learning/master/Graphique%20du%20MAE.JPG))
+![Évolution du MAE](https://raw.githubusercontent.com/elenset/Deep-Learning/master/Graphique%20du%20MAE.JPG)
 
 ## Conclusion
 
